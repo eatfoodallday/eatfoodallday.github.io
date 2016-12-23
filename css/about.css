@@ -5,13 +5,23 @@
 .about #profilepic{
     float: left;
     width: 40%;
+    margin-left: 50px;
 }
 
 .about #about-paragraph{
     float: left;
-    width: 60%;
+    width: 50%;
 }
 
 .about img{
-    width: 100%;
+    width: 82%;
+    
+}
+
+.about table th{
+    text-align: center;
+}
+
+.about table {
+    text-align: center;
 }
