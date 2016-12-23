@@ -1,6 +1,5 @@
 .about h2{
     text-align: center;
-    
 }
 
 .about #profilepic{
@@ -15,5 +14,4 @@
 
 .about img{
     width: 100%;
-    transform: rotate(90deg)
 }
