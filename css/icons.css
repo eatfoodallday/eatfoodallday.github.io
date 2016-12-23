@@ -1,0 +1,33 @@
+html, body{
+    margin:0;
+    padding:70;
+    height:100%;    
+}
+
+.row{
+    height: 50%;
+}
+
+.row #facebook{
+    width: 50%;
+    height: 100%;
+}
+
+.row #instagram{
+    width: 50%;
+    height: 100%;
+}
+
+.row #linkedin{
+    width: 50%;
+    height: 100%;
+}
+
+.row #gmail{
+    width: 50%;
+    height: 100%;
+}
+
+.row i{
+    font-size: 100px;
+}
