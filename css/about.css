@@ -1,0 +1,19 @@
+.about h2{
+    text-align: center;
+    
+}
+
+.about #profilepic{
+    float: left;
+    width: 40%;
+}
+
+.about #about-paragraph{
+    float: left;
+    width: 60%;
+}
+
+.about img{
+    width: 100%;
+    transform: rotate(90deg)
+}
