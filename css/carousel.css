@@ -5,7 +5,9 @@ html, body{
 }
 
 img {
+    margin-top: 40px;
     width: 50%;
+    height: 100%;
 }
 
 h3{
@@ -14,12 +16,4 @@ h3{
 
 #carousel{
     height: 70%;
-}
-
-.carousel-inner .item img{
-    height: 505px;
-}
-
-.carousel-control{
-    
 }
