@@ -1,3 +1,9 @@
+html, body{
+    margin:0;
+    padding: 70;
+    height:100%;    
+}
+
 img {
     width: 50%;
 }
@@ -6,4 +12,14 @@ h3{
     text-align: center;
 }
 
+#carousel{
+    height: 70%;
+}
 
+.carousel-inner .item img{
+    height: 505px;
+}
+
+.carousel-control{
+    
+}

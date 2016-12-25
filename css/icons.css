@@ -1,6 +1,6 @@
 html, body{
     margin:0;
-    padding:70;
+    padding: 70px;
     height:100%;    
 }
 
@@ -29,5 +29,6 @@ html, body{
 }
 
 .row i{
-    font-size: 100px;
+    font-size: 200px;
+    position: relative;
 }
