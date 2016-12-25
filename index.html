@@ -22,20 +22,26 @@
     
 </head>
 <body>
-    
     <!-- Navigation Bar -->
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-inverse">
         <div class="container-fluid">
-        <div class="navbar-header">
-        <a class="navbar-brand" href="../index.html">Jordan Yen</a>
-        </div>
-        <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="../index.html">Home</a></li>
-            <li><a href="../html-pages/info.html">Personal Info</a></li>
-            <li><a href="../html-pages/projects.html">Projects</a></li>
-            <li><a href="../html-pages/follow.html">Follow/Contact Me</a></li>
-            <li><a href="../resume/resume-jordan-yen.pdf" target="_blank">Resume</a></li>
-        </ul>
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span> 
+                </button>
+                <a class="navbar-brand" href="../index.html">Jordan Yen</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="../index.html">Home</a></li>
+                    <li><a href="../html-pages/info.html">Personal Info</a></li>
+                    <li><a href="../html-pages/projects.html">Projects</a></li>
+                    <li><a href="../html-pages/follow.html">Follow/Contact Me</a></li>
+                    <li><a href="../resume/resume-jordan-yen.pdf" target="_blank">Resume</a></li>
+                </ul>
+            </div>
         </div>
     </nav>
 
@@ -44,7 +50,7 @@
 
     <!-- Wrapper For Slides -->
     <div class="carousel-inner" role="listbox" >
-        <div class="item active">
+        <div class="item active" id="top-half">
             <img class="img-responsive center-block" src="../pictures/calvin_and_becky.JPG" alt="Calvin and Becky" />
             <div>
                 <h3>Photo with RA's</h3>
@@ -58,7 +64,7 @@
             </div>
         </div>
         
-        <div class="item">
+        <div class="item" id="bottom-half">
             <img class="img-responsive center-block" src="../pictures/snowboarding.jpg" alt="Snowboarding"  />
             <div>
                 <h3>Snowboarding in Mammoth</h3>

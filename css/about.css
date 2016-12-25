@@ -1,10 +1,17 @@
+p {
+    font-size: 15px;
+}
+
 .about h2{
     text-align: center;
+    background-color: #f2f2f2;
+    margin: 0;
 }
 
 .about #profilepic{
     float: left;
     width: 40%;
+    height: 50%;
     margin-left: 50px;
 }
 
@@ -13,15 +20,16 @@
     width: 50%;
 }
 
-.about img{
-    width: 82%;
-    
+img{
+    width: 80%;
 }
 
 .about table th{
     text-align: center;
+    font-size: 20px;
 }
 
 .about table {
     text-align: center;
+    font-size: 15px;
 }
