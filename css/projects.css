@@ -1,0 +1,32 @@
+.summary{
+    margin-left: 200px;
+}
+
+.screenshots{
+    margin-left: 100px;
+}
+
+img{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: left;
+    font-size: 20px;
+}
+
+hr{
+    width: 70%;
+    height:10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.github {
+    text-align: center;
+    font-size: 100px;
+}
