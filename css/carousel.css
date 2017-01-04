@@ -3,7 +3,7 @@ html, body{
     height:100%;    
 }
 
-img {
+img{
     margin-top: 40px;
     width: 50%;
     height: 100%;
@@ -15,4 +15,8 @@ h3{
 
 #carousel{
     height: 65%;
+}
+
+span{
+    color: black;
 }
