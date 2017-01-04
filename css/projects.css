@@ -1,5 +1,5 @@
 .summary{
-    margin-left: 200px;
+    margin-left: 100px;
 }
 
 .screenshots{
@@ -7,7 +7,7 @@
 }
 
 img{
-    width: 100%;
+    width: 80%;
     border: solid black 1px;
 }
 
@@ -16,12 +16,11 @@ h1{
 }
 
 p{
-    text-align: left;
-    font-size: 20px;
+    font-size: 26px;
 }
 
 hr{
-    width: 70%;
+    width: 80%;
     height:10px;
     border: 0;
     box-shadow: 0 10px 10px -10px #8c8b8b inset;
