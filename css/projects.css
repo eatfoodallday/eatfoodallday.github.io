@@ -1,14 +1,14 @@
+img{
+    width: 95%;
+    border: solid black 1px;
+}
+
 .summary{
-    margin-left: 100px;
+    text-align: center;
 }
 
 .screenshots{
-    margin-left: 100px;
-}
-
-img{
-    width: 80%;
-    border: solid black 1px;
+    padding-left: 50px;
 }
 
 h1{
